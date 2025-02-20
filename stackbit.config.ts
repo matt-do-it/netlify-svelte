@@ -29,19 +29,11 @@ export default defineStackbitConfig({
             { name: "subline", type: "string", required: true },
             { name: 'image', type: 'image' }
           ]
-        },
-                {
-          name: "People",
-          type: "data",
-          filePath: "public/data/{slug}.json",
-          fields: [
-            { name: "title", type: "string", required: true }
-          ]
         }
       ],
       assetsConfig: {
         referenceType: "static",
-        staticDir: "public",
+        staticDir: "static",
         uploadDir: "static",
         publicPath: "/"
       }
