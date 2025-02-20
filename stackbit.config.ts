@@ -22,7 +22,7 @@ export default defineStackbitConfig({
         {
           name: "Page",
           type: "page",
-          urlPath: "/page/{slug}",
+          urlPath: "/{slug}",
           filePath: "src/routes/{slug}/+page.md",
           fields: [
             { name: "title", type: "string", required: true },
