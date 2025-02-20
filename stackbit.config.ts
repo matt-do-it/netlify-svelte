@@ -2,7 +2,7 @@ import { defineStackbitConfig } from '@stackbit/types';
 import { GitContentSource } from "@stackbit/cms-git";
 
 export default defineStackbitConfig({
-    "nodeVersion": "20",
+    "nodeVersion": "18",
     "ssgName": "custom",
     "devCommand": "yarn run dev --port {PORT}",
   experimental: {
