@@ -17,7 +17,7 @@ export default defineStackbitConfig({
     contentSources: [
     new GitContentSource({
       rootPath: __dirname,
-      contentDirs: ["content"],
+      contentDirs: ["src/routes/"],
       models: [
         {
           name: "Page",
