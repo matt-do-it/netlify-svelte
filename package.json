@@ -23,6 +23,8 @@
     "vite": "^6.0.0"
   },
   "dependencies": {
+    "@stackbit/cms-git": "^1.0.34",
+    "@stackbit/types": "^2.1.14",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.0.7",
     "daisyui": "^5.0.0-beta.8",
