@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Sample
+title: Sample 3
 subline: Sample3
 ---
 asdfasdffa
