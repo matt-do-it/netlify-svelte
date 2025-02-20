@@ -5,9 +5,8 @@ import { mdsvex } from "mdsvex";
 /** @type {import('mdsvex').MdsvexOptions} */
 const mdsvexOptions = {
   extensions: [".md"],
-  layout: {
-    blog: "./src/layouts/layout.svelte",
-  },
+  layout: "./src/layouts/layout.svelte",
+  
 };
 
 /** @type {import('@sveltejs/kit').Config} */
