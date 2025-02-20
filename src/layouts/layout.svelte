@@ -10,7 +10,7 @@
   export let slug = $page.route.id; 
 </script>
 
-<div data-sb-object-id="routes/{slug}/+page.md">
+<div data-sb-object-id="routes{slug}/+page.md">
 
 
 <div class="ml-[4vmin] mr-[4vmin] md:mr-8 md:ml-8">
