@@ -1,4 +1,5 @@
 ---
+type: Page
 title: Sample Headline
 subline: Sample Subline
 layout: blog

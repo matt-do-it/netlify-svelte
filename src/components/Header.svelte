@@ -6,7 +6,7 @@
           <a
             href="/index.html"
             class="align-baseline font-extrabold text-[22px] md:text-2xl tracking-tight antialiased"
-            >MATT</a
+            >Sample</a
           >
         </div>
 
