@@ -18,7 +18,7 @@
     <div class="lg:flex flex-row items-start gap-16">
       <div class="lg:basis-1/2 lg:order-2 lg:sticky top-0">
         <div class="pt-16">
-          <img src="stage_2.jpg" />
+          <img src="stage_2.jpg"  data-sb-field-path="image#@src"/>
         </div>
       </div>
       <div class="lg:basis-1/2 lg:order-1">
